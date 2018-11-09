@@ -1,0 +1,23 @@
+{
+  "name": "md2html-doc-generator",
+  "version": "1.0.0",
+  "description": "Markdown to HTML Documentation Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrcq/md2html-doc-generator.git"
+  },
+  "author": "Edouard Rucquoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edrcq/md2html-doc-generator/issues"
+  },
+  "homepage": "https://github.com/edrcq/md2html-doc-generator#readme",
+  "dependencies": {
+    "marked": "^0.5.1"
+  }
+}
